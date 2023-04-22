@@ -1,5 +1,7 @@
 # training-program
-<head>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
     <meta charset="UTF-8">
     
     <title>FORM</title>
@@ -26,7 +28,6 @@
                 <input type="password" id="">
                 <input type="color">
                 <input type="submit" name=""><br>
-                
                 <input type="date"><br>
                 <label>RATING MY SKILLS:</label>
                 <input type="range"><br>
